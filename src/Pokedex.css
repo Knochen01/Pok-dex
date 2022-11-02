@@ -1,0 +1,11 @@
+.Pokedex {
+    text-align: center;
+}
+.Pokedex-title {
+    color:darkgray
+}
+.Pokedex-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
